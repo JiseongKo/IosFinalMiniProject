@@ -27,5 +27,5 @@
   유튜브 동영상
 
   <a href="https://youtube.com/shorts/rkB4RkdciJQ?feature=share">
-    <img src="main.png" alt="main" width="200" height="400">
+    <img src="title.png" alt="main" width="200" height="400">
   </a>
